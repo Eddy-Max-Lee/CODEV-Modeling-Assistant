@@ -1,0 +1,16 @@
+E:\EddyRepo\Offner_D\bin\Debug\Offner_D.exe.config
+E:\EddyRepo\Offner_D\bin\Debug\Offner_D.exe
+E:\EddyRepo\Offner_D\bin\Debug\Offner_D.pdb
+E:\EddyRepo\Offner_D\obj\Debug\Offner_D.csprojAssemblyReference.cache
+E:\EddyRepo\Offner_D\obj\Debug\Offner_D.Form1.resources
+E:\EddyRepo\Offner_D\obj\Debug\Offner_D.Properties.Resources.resources
+E:\EddyRepo\Offner_D\obj\Debug\Offner_D.csproj.GenerateResource.cache
+E:\EddyRepo\Offner_D\obj\Debug\Offner_D.exe
+E:\EddyRepo\Offner_D\obj\Debug\Offner_D.pdb
+E:\EddyRepo\Offner_D\bin\Debug\ExcelDataReader.DataSet.dll
+E:\EddyRepo\Offner_D\bin\Debug\ExcelDataReader.dll
+E:\EddyRepo\Offner_D\bin\Debug\ExcelDataReader.pdb
+E:\EddyRepo\Offner_D\bin\Debug\ExcelDataReader.xml
+E:\EddyRepo\Offner_D\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\EddyRepo\Offner_D\bin\Debug\ExcelDataReader.DataSet.xml
+E:\EddyRepo\Offner_D\obj\Debug\Offner_D.csproj.CopyComplete
